@@ -13,13 +13,13 @@
 
 - 🔭 I’m currently working with HCL Technology on [JEAP(Cisco Japan)](https://cisco-malagiri.obsrvbl.com/#/useractivity,https://github.com/rahulverma9449/Practiceprojectcodingninjas.git)
 
-- 🌱 I’m currently looking for Full stack Web development**
+- 🌱 I’m currently learning Full stack Web development.
 
 - 👯 I have completed Project [Jindal steel limited, CHP (USA based Project)](Jindal steel limited,https://login.umbrella.com/?expired=true&return_to=https%3A%2F%2Fdashboard.umbrella.com%2Fo%2F2415630%2F,https://github.com/rahulverma9449/Practiceprojectcodingninjas.git)
 
-- 🤝 I’m looking for a better opportunity [in Full stack web development](software project)
+- 🤝 I’m looking for a better opportunity [in Full stack web development]
 
-- 💬 Ask me about **React, Node.js, Html, CSS, Selenium, Python, CCNA, Cyber security, JavaScript, pandas, numpy, docker, Kubernetes, terraform, ansible, AWS Cloud, Cloud Security**
+- 💬 Ask me about **React, Node.js, HTML, CSS, Selenium, Python, CCNA, Cyber security, JavaScript, pandas, numpy, docker, Kubernetes, terraform, ansible, AWS Cloud, Cloud Security**
 
 - 📫 How to reach me **rahulverma9449@gmail.com, rahulverma9559@gmail.com**
 
